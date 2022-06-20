@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SqlCrudAPI
+build_property.ProjectDir = C:\API\SqlCrudAPI\SqlCrudAPI\
